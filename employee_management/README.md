@@ -31,8 +31,8 @@ A command-line based Employee Management System written in **Python**, featuring
 
 1. **Clone or download the repository**
    ```bash
-   git clone https://github.com/your-username/employee-management.git
-   cd employee-management
+   git clone https://github.com/Omega493/python-learning.git
+   cd python-learning/employee_management
    ```
 
 2. **Install dependencies**
